@@ -1,0 +1,15 @@
+{
+  "company": "ParkNSecure / SecurePark",
+  "role": "Data Science & Computer Vision Intern",
+  "project": "Smart Parking System",
+  "duration": "Jun 2025 – Aug 2025 (placeholder)",
+  "location": "Remote / Hyderabad (placeholder)",
+  "responsibilities": [
+    "Developed camera-based slot occupancy detection using OpenCV and custom CNN classifiers.",
+    "Built REST APIs for real-time parking availability and admin analytics dashboards.",
+    "Collaborated with backend team on MySQL schema design and deployment scripts.",
+    "Documented model performance metrics and presented weekly progress to stakeholders."
+  ],
+  "technologies": ["Python", "OpenCV", "TensorFlow", "Flask", "MySQL", "React", "Git"],
+  "certificate": "/certificates/parknsecure-internship.pdf"
+}

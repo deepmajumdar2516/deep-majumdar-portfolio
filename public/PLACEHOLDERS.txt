@@ -1,0 +1,5 @@
+Add your real files here:
+- resume.pdf (root of public/)
+- images/profile.jpg
+- certificates/*.pdf (match paths in src/data/certifications.json)
+- reports/*.pdf (match paths in src/data/projects.json)

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Adaptive Traffic Signal Control using Deep Reinforcement Learning",
+    "authors": "Deep Majumdar, et al. (placeholder)",
+    "venue": "Under preparation — 2026",
+    "status": "Draft",
+    "abstract": "Placeholder abstract for future submission on RL-based traffic optimization in urban simulations.",
+    "link": ""
+  },
+  {
+    "title": "Vision-Based Weed Detection for Precision Agriculture",
+    "authors": "Deep Majumdar (placeholder)",
+    "venue": "Target: IEEE / agricultural AI workshop",
+    "status": "Planned",
+    "abstract": "Placeholder for crop vs. weed segmentation study using transfer learning on field imagery.",
+    "link": ""
+  }
+]

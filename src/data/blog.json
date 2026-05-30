@@ -1,0 +1,26 @@
+[
+  {
+    "id": "getting-started-ml",
+    "title": "Getting Started with Machine Learning in 2026",
+    "date": "2026-01-15",
+    "excerpt": "A practical roadmap from Python basics to your first scikit-learn project—with resources that actually helped me.",
+    "tags": ["ML", "Career"],
+    "readTime": "6 min"
+  },
+  {
+    "id": "opencv-tips",
+    "title": "5 OpenCV Tips for Computer Vision Projects",
+    "date": "2025-11-02",
+    "excerpt": "Preprocessing, augmentation, and debugging tricks I learned while building parking and damage-detection pipelines.",
+    "tags": ["Computer Vision", "OpenCV"],
+    "readTime": "4 min"
+  },
+  {
+    "id": "portfolio-lessons",
+    "title": "What I Learned Building This Portfolio",
+    "date": "2026-05-20",
+    "excerpt": "React, accessibility, and why a projects-first layout matters when recruiters spend 30 seconds on your site.",
+    "tags": ["Web Dev", "Career"],
+    "readTime": "5 min"
+  }
+]

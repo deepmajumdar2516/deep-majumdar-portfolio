@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Hackathon — Smart City Solutions",
+    "organization": "GITAM Tech Fest",
+    "year": "2025",
+    "description": "Built a prototype smart parking module; placed in top 5 teams among 40+ entries."
+  },
+  {
+    "title": "Trilytics Data Competition",
+    "organization": "Trilytics",
+    "year": "2024",
+    "description": "Ranked in top 15% on a time-series forecasting challenge using ensemble models."
+  },
+  {
+    "title": "VIDA Campus Challenge",
+    "organization": "VIDA",
+    "year": "2024",
+    "description": "Participated in vehicle innovation challenge with a damage-detection demo pipeline."
+  },
+  {
+    "title": "Campus Ambassador — Tech Community",
+    "organization": "Developer Student Club (placeholder)",
+    "year": "2023 – 2024",
+    "description": "Organized workshops on Git, Python, and ML fundamentals for 200+ students."
+  }
+]

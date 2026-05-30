@@ -1,0 +1,42 @@
+[
+  {
+    "id": "google-ds",
+    "provider": "Google",
+    "title": "Google Data Analytics Professional Certificate",
+    "year": "2024",
+    "credential": "Placeholder credential ID",
+    "pdf": "/certificates/google-data-analytics.pdf"
+  },
+  {
+    "id": "coursera-ml",
+    "provider": "Coursera",
+    "title": "Machine Learning Specialization (Stanford)",
+    "year": "2024",
+    "credential": "Placeholder",
+    "pdf": "/certificates/coursera-ml.pdf"
+  },
+  {
+    "id": "nptel-dl",
+    "provider": "NPTEL",
+    "title": "Introduction to Deep Learning",
+    "year": "2023",
+    "credential": "NPTEL-XXXX",
+    "pdf": "/certificates/nptel-dl.pdf"
+  },
+  {
+    "id": "udemy-react",
+    "provider": "Udemy",
+    "title": "React — The Complete Guide",
+    "year": "2023",
+    "credential": "UDEMY-XXXX",
+    "pdf": "/certificates/udemy-react.pdf"
+  },
+  {
+    "id": "kaggle-intro",
+    "provider": "Kaggle",
+    "title": "Intro to Machine Learning",
+    "year": "2023",
+    "credential": "Kaggle Learn",
+    "pdf": "/certificates/kaggle-ml.pdf"
+  }
+]
