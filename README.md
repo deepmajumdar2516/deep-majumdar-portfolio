@@ -1,6 +1,10 @@
-# Deep Majumdar — Portfolio
+﻿# Deep Majumdar – Portfolio
 
 Modern React portfolio for **Deep Majumdar** (Data Science & AI), built with Vite and React.
+
+## Live Demo
+
+**Deployed site:** [https://deepmajumdar2516.github.io/deep-majumdar-portfolio/](https://deepmajumdar2516.github.io/deep-majumdar-portfolio/)
 
 ## Run locally
 
@@ -30,11 +34,11 @@ npm run preview
 
 ## Assets to add (placeholders)
 
-1. **Profile photo** — `public/images/profile.jpg`
-2. **Resume PDF** — `public/resume.pdf`
-3. **Certificates** — `public/certificates/*.pdf`
-4. **Project reports** — `public/reports/*.pdf`
-5. **Project screenshots** — replace paths in `projects.json` (defaults use `public/images/project-placeholder.svg` via copied paths)
+1. **Profile photo** – `public/images/profile.jpg`
+2. **Resume PDF** – `public/resume.pdf`
+3. **Certificates** – `public/certificates/*.pdf`
+4. **Project reports** – `public/reports/*.pdf`
+5. **Project screenshots** – replace paths in `projects.json` (defaults use `public/images/project-placeholder.svg` via copied paths)
 
 Update real URLs for GitHub, demo links, email, phone, and LinkedIn in `personal.js` and `projects.json`.
 
