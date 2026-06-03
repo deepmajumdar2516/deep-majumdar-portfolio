@@ -5,28 +5,40 @@ export default function Skills() {
   return (
     <section id="skills" className="section">
       <div className="container">
-        <SectionHeading label="" title="Skills" subtitle="Technical proficiency by category" />
+        <SectionHeading
+          label=""
+          title="Skills"
+          subtitle="Technical proficiency by category"
+        />
+
         <div className="skills-grid">
           {skills.map((group) => (
             <div key={group.category} className="skill-group card">
               <h3>{group.category}</h3>
-              <ul className="skill-bars">
+
+              <ul
+                style={{
+                  display: 'flex',
+                  flexWrap: 'wrap',
+                  gap: '10px',
+                  padding: 0,
+                  margin: 0,
+                  listStyle: 'none',
+                }}
+              >
                 {group.items.map((skill) => (
-                  <li key={skill.name}>
-                    <div className="skill-label">
-                      <span>{skill.name}</span>
-                    </div>
-                    <div className="skill-track">
-                      <div
-                        className="skill-fill"
-                        style={{ width: `${skill.level}%` }}
-                        role="progressbar"
-                        aria-valuenow={skill.level}
-                        aria-valuemin={0}
-                        aria-valuemax={100}
-                        aria-label={`${skill.name} proficiency`}
-                      />
-                    </div>
+                  <li
+                    key={skill.name}
+                    style={{
+                      padding: '8px 16px',
+                      borderRadius: '999px',
+                      backgroundColor: '#1e293b',
+                      color: '#38bdf8',
+                      border: '1px solid #38bdf8',
+                      fontWeight: '500',
+                    }}
+                  >
+                    {skill.name}
                   </li>
                 ))}
               </ul>
