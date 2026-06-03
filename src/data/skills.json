@@ -2,7 +2,7 @@
   {
     "category": "Programming",
     "items": [
-      { "name": "Python", },
+      { "name": "Python" },
       { "name": "Java", "level": 75 },
       { "name": "SQL", "level": 82 },
       { "name": "JavaScript", "level": 85 }
