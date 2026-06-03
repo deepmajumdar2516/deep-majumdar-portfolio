@@ -3,7 +3,7 @@ export const personal = {
   title: 'Java Full Stack Developer | Data Science Enthusiast',
   tagline: 'Java Full Stack Developer | Data Science Enthusiast',
   intro:
-    'B.Tech CSE (Data Science) student passionate about machine learning, computer vision, and building intelligent systems that solve real-world problems.',
+    'Computer Science graduate specializing in Data Science with a strong focus on Java Full Stack Development. Passionate about building scalable web applications, developing efficient backend systems, and leveraging data-driven solutions to solve real-world problems. Skilled in Java, Spring Boot, React, SQL, and Machine Learning.',
   photo: '/images/profile.jpg',
   resumePath: '/resume.pdf',
   githubUsername: 'deepmajumdar',
