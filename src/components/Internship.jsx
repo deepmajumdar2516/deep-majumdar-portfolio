@@ -5,7 +5,7 @@ export default function Internship() {
   return (
     <section id="internship" className="section">
       <div className="container">
-        <SectionHeading label="05" title="Internship" subtitle="Industry experience" />
+        <SectionHeading label="" title="Internship" subtitle="Industry experience" />
         <div className="internship-card card">
           <div className="internship-header">
             <div>
