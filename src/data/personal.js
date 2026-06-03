@@ -12,7 +12,7 @@ export const personal = {
     phone: '+91 6363718374',
     linkedin: 'https://www.linkedin.com/in/deep-majumdar2516/',
     github: 'https://github.com/deepmajumdar2516',
-    location: 'Visakhapatnam, Andhra Pradesh, India',
+    location: 'Bengaluru, Karnataka, India',
   },
   careerObjective:
     'To build scalable and user-centric web applications as a Java Full Stack Developer while leveraging data science and AI techniques to create intelligent, data-driven solutions that solve real-world problems.',
