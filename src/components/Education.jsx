@@ -5,7 +5,7 @@ export default function Education() {
   return (
     <section id="education" className="section section--alt">
       <div className="container">
-        <SectionHeading label="02" title="Education" subtitle="Academic background" />
+        <SectionHeading label="" title="Education" subtitle="Academic background" />
         <div className="table-wrap card">
           <table className="edu-table">
             <thead>

@@ -1,26 +1,23 @@
 [
   {
     "degree": "B.Tech — Computer Science & Engineering (Data Science)",
-    "institution": "GITAM University",
-    "location": "Visakhapatnam, India",
+    "institution": "GITAM University ",
+    "location": "Bengaluru, Karnataka",
     "period": "2022 – 2026",
-    "score": "CGPA: 8.2 / 10 (placeholder)",
-    "highlights": "Coursework in ML, Statistics, DBMS, and Cloud Computing"
+    "score": "CGPA: 8.15 / 10 "
   },
   {
     "degree": "Senior Secondary (12th)",
-    "institution": "Delhi Public School (placeholder)",
-    "location": "Kolkata, India",
-    "period": "2020 – 2022",
-    "score": "Percentage: 92% (placeholder)",
-    "highlights": "Science stream — PCM with Computer Science"
+    "institution": "AVS Brilliant PU College ",
+    "location": "Sindhnaur, Karnataka",
+    "period": "2021 – 2022",
+    "score": "Percentage: 83.33 "
   },
   {
     "degree": "Secondary (10th)",
-    "institution": "Delhi Public School (placeholder)",
-    "location": "Kolkata, India",
-    "period": "2018 – 2020",
-    "score": "Percentage: 95% (placeholder)",
-    "highlights": "School topper in Mathematics (placeholder)"
+    "institution": "Sri Venkateshwara English Medium High School ",
+    "location": "Sindhanur, Karnataka",
+    "period": "2019 – 2020",
+    "score": "Percentage: 77.44% "
   }
 ]
