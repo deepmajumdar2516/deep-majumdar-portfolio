@@ -1,61 +1,23 @@
-[
-  {
-    "company": "KodNest Technologies",
-    "role": "Software Development Intern",
-    "duration": "May 2025 – Present",
-    "location": "Bangalore, India",
-    "responsibilities": [
-      "Gaining hands-on experience in Java Full Stack Development using Java, MySQL, HTML, CSS, and JavaScript.",
-      "Working on frontend, backend, and database concepts through real-time assignments and mini-projects.",
-      "Learning Manual Testing, debugging, and software development practices under industry mentorship.",
-      "Building practical knowledge of software development lifecycle and industry-standard coding practices."
-    ],
-    "technologies": [
-      "Java",
-      "MySQL",
-      "HTML5",
-      "CSS3",
-      "JavaScript"
-    ],
-    "certificate": ""
-  },
-  {
-    "company": "ParkNSecure",
-    "role": "Web Development Intern",
-    "project": "SecurePark Smart Parking System",
-    "duration": "May 2025 – June 2025",
-    "location": "Remote",
-    "responsibilities": [
-      "Contributed to the development of the SecurePark Smart Parking System web platform.",
-      "Designed responsive frontend components using HTML5, CSS3, and JavaScript.",
-      "Worked on backend integration and database connectivity.",
-      "Performed application testing and optimization to improve system performance."
-    ],
-    "technologies": [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "MySQL"
-    ],
-    "certificate": "/certificates/parknsecure-internship.pdf"
-  },
-  {
-    "company": "MotionCut",
-    "role": "Web Development Intern",
-    "project": "Web Development Training Program",
-    "duration": "Aug 2024 – Sep 2024",
-    "location": "Remote",
-    "responsibilities": [
-      "Developed responsive web interfaces using HTML5, CSS3, and JavaScript.",
-      "Built and optimized UI components for improved user experience.",
-      "Collaborated on development tasks following structured coding practices.",
-      "Applied frontend development concepts to real-world web projects."
-    ],
-    "technologies": [
-      "HTML5",
-      "CSS3",
-      "JavaScript"
-    ],
-    "certificate": ""
-  }
-]
+{
+  "company": "ParkNSecure / SecurePark",
+  "role": "Web Development Intern",
+  "project": "Smart Parking System",
+  "duration": "May 2025 – June 2025",
+  "location": "Remote",
+  "responsibilities": [
+    "Developed camera-based slot occupancy detection using OpenCV and custom CNN classifiers.",
+    "Built REST APIs for real-time parking availability and admin analytics dashboards.",
+    "Collaborated with backend team on MySQL schema design and deployment scripts.",
+    "Documented model performance metrics and presented weekly progress to stakeholders."
+  ],
+  "technologies": [
+    "Python",
+    "OpenCV",
+    "TensorFlow",
+    "Flask",
+    "MySQL",
+    "React",
+    "Git"
+  ],
+  "certificate": "/certificates/parknsecure-internship.pdf"
+}
