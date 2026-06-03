@@ -1,6 +1,6 @@
 export const personal = {
   name: 'Deep Majumdar',
-  title: 'Data Science & AI Enthusiast',
+  title: 'Java Full Stack Developer | Data Science Enthusiast',
   tagline: 'Deep Majumdar | Data Science & AI Enthusiast',
   intro:
     'B.Tech CSE (Data Science) student passionate about machine learning, computer vision, and building intelligent systems that solve real-world problems.',
