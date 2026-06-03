@@ -1,10 +1,5 @@
 [
-  {
-    "year": "2026",
-    "title": "Portfolio & Open Source",
-    "subtitle": "Personal projects",
-    "description": "Launched full portfolio site; continued ML and web projects."
-  },
+  
   {
     "year": "2025",
     "title": "ParkNSecure Internship",
@@ -12,15 +7,21 @@
     "description": "Computer vision intern building occupancy detection and APIs."
   },
   {
-    "year": "2024",
-    "title": "ML & CV Projects",
-    "subtitle": "Academic & competitions",
-    "description": "Vehicle damage, weed detection, traffic RL, Trilytics competition."
+    "year": "2025",
+    "title": "Data Analytics Job Simulation",
+    "subtitle": "Deloitte Australia",
+    "description": "Completed real-world data analytics tasks involving data cleaning, analysis, visualization, and business insights generation."
   },
   {
-    "year": "2022",
-    "title": "B.Tech CSE (Data Science)",
-    "subtitle": "GITAM University",
-    "description": "Started degree program; foundations in programming and statistics."
+    "year": "2024",
+    "title": "Software Engineering Job Simulation",
+    "subtitle": "J.P. Morgan",
+    "description": "Worked on software engineering challenges involving code development, debugging, and practical problem-solving in a financial technology environment."
+  },
+  {
+    "year": "2024",
+    "title": "Front-End Software Engineering Job Simulation",
+    "subtitle": "Skyscanner",
+    "description": "Developed front-end solutions, implemented UI features, and gained experience in modern web development practices."
   }
 ]
