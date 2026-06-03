@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section id="about" className="section">
       <div className="container">
-        <SectionHeading label="01" title="About Me" subtitle="Background, goals, and focus areas" />
+        <SectionHeading label="" title="About Me" subtitle="Background, goals, and focus areas" />
         <div className="about-grid">
           <div className="about-text card">
             <p>{personal.intro}</p>
