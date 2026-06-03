@@ -5,7 +5,7 @@ export default function Skills() {
   return (
     <section id="skills" className="section">
       <div className="container">
-        <SectionHeading label="03" title="Skills" subtitle="Technical proficiency by category" />
+        <SectionHeading label="" title="Skills" subtitle="Technical proficiency by category" />
         <div className="skills-grid">
           {skills.map((group) => (
             <div key={group.category} className="skill-group card">
