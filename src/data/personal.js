@@ -8,7 +8,7 @@ export const personal = {
   resumePath: '/resume.pdf',
   githubUsername: 'deepmajumdar2516',
   contact: {
-    email: 'deepmajumdar2516@gmail.com',
+    email: 'deepmajumdar2516\n@gmail.com',
     phone: '+91 6363718374',
     linkedin: 'https://www.linkedin.com/in/deep-majumdar2516/',
     github: 'https://github.com/deepmajumdar2516',
