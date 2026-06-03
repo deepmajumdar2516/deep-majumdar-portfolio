@@ -15,7 +15,6 @@ export default function Skills() {
                   <li key={skill.name}>
                     <div className="skill-label">
                       <span>{skill.name}</span>
-                      <span>{skill.level}%</span>
                     </div>
                     <div className="skill-track">
                       <div
