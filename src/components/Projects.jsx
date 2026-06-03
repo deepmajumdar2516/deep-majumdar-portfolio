@@ -39,7 +39,7 @@ export default function Projects() {
     <section id="projects" className="section section--alt">
       <div className="container">
         <SectionHeading
-          label="04"
+          label=""
           title="Projects"
           subtitle="Search, filter, and explore — click a card for screenshots and links"
         />

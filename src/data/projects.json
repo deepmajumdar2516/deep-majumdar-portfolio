@@ -98,16 +98,60 @@
     "featured": false
   },
   {
-    "id": "portfolio-website",
-    "name": "Portfolio Website",
+    "id": "my-portfolio",
+    "name": "Personal Portfolio Website",
     "category": ["Web Development"],
     "year": 2026,
-    "description": "This responsive portfolio with project filtering, GitHub stats, dark mode, and an FAQ chatbot.",
-    "technologies": ["React", "Vite", "CSS"],
-    "problemSolved": "Centralizes professional work for recruiters with searchable projects and downloadable resume.",
+    "description": "A modern responsive portfolio website showcasing my skills, projects, internship experience, certifications, and professional achievements. Features include project filtering, GitHub integration, resume download, dark mode, and interactive UI components.",
+    "technologies": [
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "GitHub Pages"
+    ],
+    "problemSolved": "Provides a centralized platform for recruiters and employers to explore my technical skills, projects, certifications, internship experience, and contact information in a professional and accessible format.",
     "screenshots": ["/images/project-placeholder.svg"],
-    "github": "https://github.com/deepmajumdar/portfolio",
-    "demo": "",
+    "github": "https://github.com/deepmajumdar2516/deep-majumdar-portfolio",
+    "demo": "https://deepmajumdar2516.github.io/deep-majumdar-portfolio/",
+    "report": "",
+    "featured": false
+  },
+  {
+    "id": "contact-exporter",
+    "name": "Contact Exporter",
+    "category": ["Web Development"],
+    "year": 2025,
+    "description": "A browser-based contact backup application that allows users to export phone contacts to Excel and CSV formats. Features contact search, sorting, duplicate removal, dark mode, and a responsive mobile-friendly interface.",
+    "technologies": [
+    "HTML5",
+    "JavaScript",
+    "SheetJS (XLSX)"
+    ],
+    "problemSolved": "Provides a simple and secure way for users to back up and export phone contacts without installing additional applications.",
+    "screenshots": ["/images/contact-exporter.png"],
+    "github": "https://github.com/deepmajumdar2516/contact-exporter",
+    "demo": "https://deepmajumdar2516.github.io/contact-exporter/",
+    "report": "",
+    "featured": false
+  },
+  {
+    "id": "ai-spend-analyzer",
+    "name": "AI Spend Analyzer",
+    "category": ["Data Science", "Machine Learning"],
+    "year": 2025,
+    "description": "An AI-powered financial analytics platform that detects duplicate transactions, identifies spending anomalies using machine learning, and provides cost-saving recommendations through interactive dashboards and automated reporting.",
+    "technologies": [
+    "Python",
+    "Streamlit",
+    "Scikit-Learn",
+    "Plotly",
+    "Machine Learning"
+    ],
+    "problemSolved": "Helps organizations identify cost leakage, detect unusual spending patterns, automate financial analysis, and generate actionable insights for better decision-making.",
+    "screenshots": ["/images/ai-spend-analyzer.png"],
+    "github": "https://github.com/deepmajumdar2516/AI-Spend-Analyzer",
+    "demo": "https://ai-spend-analyzer-2516.streamlit.app/",
     "report": "",
     "featured": false
   }

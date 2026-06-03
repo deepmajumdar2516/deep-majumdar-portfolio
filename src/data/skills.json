@@ -20,6 +20,14 @@
     ]
   },
   {
+    "category": "Databases",
+    "items": [
+      { "name": "MySQL" },
+      { "name": "MongoDB" },
+      { "name": "Firebase" }
+    ]
+  },
+  {
   "category": "Core Concepts",
   "items": [
     { "name": "Data Structures" },
@@ -39,14 +47,6 @@
       { "name": "Power Query" },
       { "name": "Power BI" }
 
-    ]
-  },
-  {
-    "category": "Databases",
-    "items": [
-      { "name": "MySQL" },
-      { "name": "MongoDB" },
-      { "name": "Firebase" }
     ]
   },
   {
