@@ -5,7 +5,7 @@ export default function Certifications() {
   return (
     <section id="certifications" className="section section--alt">
       <div className="container">
-        <SectionHeading label="06" title="Certifications" subtitle="Professional learning credentials" />
+        <SectionHeading label="" title="Certifications" subtitle="Professional learning credentials" />
         <div className="certs-grid">
           {certifications.map((cert) => (
             <article key={cert.id} className="cert-card card">
