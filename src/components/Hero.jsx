@@ -38,7 +38,7 @@ export default function Hero() {
             />
             <div className="hero-photo-fallback" aria-hidden="true">
               <span>DM</span>
-              <small>Add photo at public/images/profile.jpg</small>
+              <small>/deep-majumdar-portfolio/images/profile.jpg</small>
             </div>
             <div className="hero-ring" />
           </div>
