@@ -4,7 +4,7 @@ export const personal = {
   tagline: 'Java Full Stack Developer | Data Science Enthusiast',
   intro:
     'Computer Science graduate specializing in Data Science with a strong focus on Java Full Stack Development. Passionate about building scalable web applications, developing efficient backend systems, and leveraging data-driven solutions to solve real-world problems. Skilled in Java, Spring Boot, React, SQL, and Machine Learning.',
-  photo: '/images/profile.jpg',
+  photo: 'https://deepmajumdar2516.github.io/deep-majumdar-portfolio/images/profile.jpg',
   resumePath: '/resume.pdf',
   linkedinUsername: 'deep-majumdar2516',
   githubUsername: 'deepmajumdar2516',
