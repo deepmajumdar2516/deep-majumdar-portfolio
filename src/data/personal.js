@@ -4,14 +4,14 @@ export const personal = {
   tagline: 'Java Full Stack Developer | Data Science Enthusiast',
   intro:
     'Computer Science graduate specializing in Data Science with a strong focus on Java Full Stack Development. Passionate about building scalable web applications, developing efficient backend systems, and leveraging data-driven solutions to solve real-world problems. Skilled in Java, Spring Boot, React, SQL, and Machine Learning.',
-  photo: '/images/profile.jpg',
+  photo: 'https://drive.google.com/uc?export=view&id=1129089WMTQyw30LYPiMCaAHuP6OkSeT5'
   resumePath: '/resume.pdf',
-  githubUsername: 'deepmajumdar',
+  githubUsername: 'deepmajumdar2516',
   contact: {
-    email: 'deep.majumdar@example.com',
-    phone: '+91 98765 43210',
-    linkedin: 'https://linkedin.com/in/deepmajumdar',
-    github: 'https://github.com/deepmajumdar',
+    email: 'deepmajumdar2516@gmail.com',
+    phone: '+91 6363718374',
+    linkedin: 'https://www.linkedin.com/in/deep-majumdar2516/',
+    github: 'https://github.com/deepmajumdar2516',
     location: 'Visakhapatnam, Andhra Pradesh, India',
   },
   careerObjective:
