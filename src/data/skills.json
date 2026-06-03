@@ -2,44 +2,82 @@
   {
     "category": "Programming",
     "items": [
+      { "name": "Java" },
       { "name": "Python" },
-      { "name": "Java", "level": 75 },
-      { "name": "SQL", "level": 82 },
-      { "name": "JavaScript", "level": 85 }
+      { "name": "JavaScript" },
+      { "name": "SQL" },
+      { "name": "R" }
     ]
   },
   {
-    "category": "Data Science",
+    "category": "Java Full Stack",
     "items": [
-      { "name": "Pandas", "level": 88 },
-      { "name": "NumPy", "level": 85 },
-      { "name": "Scikit-Learn", "level": 80 },
-      { "name": "TensorFlow", "level": 78 }
+      { "name": "Spring Boot" },
+      { "name": "React.js" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "REST APIs" }
     ]
   },
   {
-    "category": "Web Development",
+  "category": "Core Concepts",
+  "items": [
+    { "name": "Data Structures" },
+    { "name": "Algorithms" },
+    { "name": "Object-Oriented Programming" },
+    { "name": "DBMS" },
+    { "name": "Computer Networks" },
+    { "name": "Operating Systems" }
+  ]
+  },
+  {
+    "category": "Data Science & AI",
     "items": [
-      { "name": "HTML", "level": 92 },
-      { "name": "CSS", "level": 88 },
-      { "name": "React", "level": 85 },
-      { "name": "Spring Boot", "level": 70 }
+      { "name": "Data Science" },
+      { "name": "Machine Learning" },
+      { "name": "Computer Vision" },
+      { "name": "Power Query" },
+      { "name": "Power BI" }
+
     ]
   },
   {
-    "category": "Database",
+    "category": "Databases",
     "items": [
-      { "name": "MySQL", "level": 82 },
-      { "name": "MongoDB", "level": 75 }
+      { "name": "MySQL" },
+      { "name": "MongoDB" },
+      { "name": "Firebase" }
+    ]
+  },
+  {
+    "category": "Networking & Systems",
+    "items": [
+      { "name": "Computer Networks" },
+      { "name": "TCP/IP" },
+      { "name": "DNS" },
+      { "name": "HTTP" },
+      { "name": "Linux" },
+      { "name": "Windows" }
     ]
   },
   {
     "category": "Tools",
     "items": [
-      { "name": "Git", "level": 88 },
-      { "name": "GitHub", "level": 90 },
-      { "name": "VS Code", "level": 95 },
-      { "name": "Jupyter", "level": 90 }
+      { "name": "Git" },
+      { "name": "GitHub" },
+      { "name": "VS Code" },
+      { "name": "Jupyter Notebook" },
+      { "name": "Google Colab" },
+      { "name": "MS Office" }
     ]
-  }
+  },
+  {
+  "category": "Core Skills",
+  "items": [
+    { "name": "Problem Solving" },
+    { "name": "Analytical Thinking" },
+    { "name": "Communication" },
+    { "name": "Troubleshooting" }
+  ]
+}
 ]
