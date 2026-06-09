@@ -22,6 +22,7 @@ export default function Contact() {
           <a href={contact.linkedin} target="_blank" rel="noreferrer" className="contact-card card">
             <span className="contact-icon">in</span>
             <strong>LinkedIn</strong>
+            <p>@{personal.linkedinUsername}</p>
             <p>Profile</p>
           </a>
           <a href={contact.github} target="_blank" rel="noreferrer" className="contact-card card">
