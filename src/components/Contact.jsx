@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <section id="contact" className="section section--alt">
       <div className="container">
-        <SectionHeading label="12" title="Contact" subtitle="Let's connect" />
+        <SectionHeading label="" title="Contact" subtitle="Let's connect" />
         <div className="contact-grid">
           <a href={`mailto:${contact.email}`} className="contact-card card">
             <span className="contact-icon">✉</span>
@@ -23,7 +23,6 @@ export default function Contact() {
             <span className="contact-icon">in</span>
             <strong>LinkedIn</strong>
             <p>@{personal.linkedinUsername}</p>
-            <p>Profile</p>
           </a>
           <a href={contact.github} target="_blank" rel="noreferrer" className="contact-card card">
             <span className="contact-icon">⌘</span>
