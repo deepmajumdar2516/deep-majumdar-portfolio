@@ -1,0 +1,101 @@
+[
+  {
+    "id": "my-portfolio",
+    "name": "Personal Portfolio Website",
+    "category": ["Web Development"],
+    "year": 2026,
+    "description": "A modern responsive portfolio website showcasing my skills, projects, internship experience, certifications, and professional achievements. Features include project filtering, GitHub integration, resume download, dark mode, and interactive UI components.",
+    "technologies": [
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "GitHub Pages"
+    ],
+    "problemSolved": "Provides a centralized platform for recruiters and employers to explore my technical skills, projects, certifications, internship experience, and contact information in a professional and accessible format.",
+    "screenshots": ["/images/project-placeholder.svg"],
+    "github": "https://github.com/deepmajumdar2516/deep-majumdar-portfolio",
+    "demo": "https://deepmajumdar2516.github.io/deep-majumdar-portfolio/",
+    "report": "",
+    "featured": false
+  },
+  {
+    "id": "contact-exporter",
+    "name": "Contact Exporter",
+    "category": ["Web Development"],
+    "year": 2025,
+    "description": "A browser-based contact backup application that allows users to export phone contacts to Excel and CSV formats. Features contact search, sorting, duplicate removal, dark mode, and a responsive mobile-friendly interface.",
+    "technologies": [
+    "HTML5",
+    "JavaScript",
+    "SheetJS (XLSX)"
+    ],
+    "problemSolved": "Provides a simple and secure way for users to back up and export phone contacts without installing additional applications.",
+    "screenshots": ["/images/contact-exporter.png"],
+    "github": "https://github.com/deepmajumdar2516/contact-exporter",
+    "demo": "https://deepmajumdar2516.github.io/contact-exporter/",
+    "report": "",
+    "featured": false
+  },
+  {
+    "id": "ai-spend-analyzer",
+    "name": "AI Spend Analyzer",
+    "category": ["Data Science", "Machine Learning"],
+    "year": 2025,
+    "description": "An AI-powered financial analytics platform that detects duplicate transactions, identifies spending anomalies using machine learning, and provides cost-saving recommendations through interactive dashboards and automated reporting.",
+    "technologies": [
+    "Python",
+    "Streamlit",
+    "Scikit-Learn",
+    "Plotly",
+    "Machine Learning"
+    ],
+    "problemSolved": "Helps organizations identify cost leakage, detect unusual spending patterns, automate financial analysis, and generate actionable insights for better decision-making.",
+    "screenshots": ["/images/ai-spend-analyzer.png"],
+    "github": "https://github.com/deepmajumdar2516/AI-Spend-Analyzer",
+    "demo": "https://ai-spend-analyzer-2516.streamlit.app/",
+    "report": "",
+    "featured": false
+  },
+  {
+    "id": "finance-dashboard",
+    "name": "Personal Finance Dashboard",
+    "category": ["Data Analytics", "Business Intelligence"],
+    "year": 2025,
+    "description": "An interactive finance analytics dashboard that visualizes financial data, tracks key performance metrics, and provides actionable insights through dynamic charts and reports. Built to support data-driven financial decision-making.",
+    "technologies": [
+    "Power BI",
+    "DAX",
+    "Power Query",
+    "Data Visualization"
+    ],
+    "problemSolved": "Transforms raw financial data into meaningful insights through interactive dashboards, helping users monitor trends, analyze performance, and make informed financial decisions.",
+    "screenshots": ["/images/finance-dashboard.png"],
+    "github": "https://github.com/deepmajumdar2516/finance-dashboard",
+    "demo": "https://finance-dashboard-omega-ashen.vercel.app/",
+    "report": "",
+    "featured": true
+  },
+  {
+    "id": "neon-kinetic-particles",
+    "name": "Neon Kinetic Particles",
+    "category": ["Computer Vision", "Interactive Web Development"],
+    "year": 2025,
+    "description": "A real-time interactive 3D particle system that uses webcam-based hand tracking to control thousands of particles through natural gestures. Features dynamic shape morphing, particle physics simulation, motion blur effects, and gesture-triggered visual interactions.",
+    "technologies": [
+    "JavaScript",
+    "Three.js",
+    "MediaPipe Hands",
+    "WebGL",
+    "HTML5",
+    "CSS3",
+    "Computer Vision"
+    ],
+    "problemSolved": "Demonstrates intuitive human-computer interaction by enabling gesture-based control of a real-time 3D particle environment using computer vision and browser-based graphics rendering.",
+    "screenshots": ["/images/neon-kinetic-particles.png"],
+    "github": "https://github.com/deepmajumdar2516/neon-kinetic-particles",
+    "demo": "",
+    "report": "",
+    "featured": true
+  }
+]

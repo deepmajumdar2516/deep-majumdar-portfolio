@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Programming",
+    "items": [
+      { "name": "Java" },
+      { "name": "Python" },
+      { "name": "JavaScript" },
+      { "name": "SQL" },
+      { "name": "R" }
+    ]
+  },
+  {
+    "category": "Java Full Stack",
+    "items": [
+      { "name": "Spring Boot" },
+      { "name": "React.js" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "REST APIs" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      { "name": "MySQL" },
+      { "name": "MongoDB" },
+      { "name": "Firebase" }
+    ]
+  },
+  {
+  "category": "Core Concepts",
+  "items": [
+    { "name": "Data Structures" },
+    { "name": "Algorithms" },
+    { "name": "Object-Oriented Programming" },
+    { "name": "DBMS" },
+    { "name": "Computer Networks" },
+    { "name": "Operating Systems" }
+  ]
+  },
+  {
+    "category": "Data Science & AI",
+    "items": [
+      { "name": "Data Science" },
+      { "name": "Machine Learning" },
+      { "name": "Computer Vision" },
+      { "name": "Power Query" },
+      { "name": "Power BI" }
+
+    ]
+  },
+  {
+    "category": "Networking & Systems",
+    "items": [
+      { "name": "Computer Networks" },
+      { "name": "TCP/IP" },
+      { "name": "DNS" },
+      { "name": "HTTP" },
+      { "name": "Linux" },
+      { "name": "Windows" }
+    ]
+  },
+  {
+    "category": "Tools",
+    "items": [
+      { "name": "Git" },
+      { "name": "GitHub" },
+      { "name": "VS Code" },
+      { "name": "Jupyter Notebook" },
+      { "name": "Google Colab" },
+      { "name": "MS Office" }
+    ]
+  },
+  {
+  "category": "Core Skills",
+  "items": [
+    { "name": "Problem Solving" },
+    { "name": "Analytical Thinking" },
+    { "name": "Communication" },
+    { "name": "Troubleshooting" }
+  ]
+}
+]
