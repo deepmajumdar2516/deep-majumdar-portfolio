@@ -1,42 +1,34 @@
 [
   {
-    "id": "google-ds",
+    "id": "google-data-analytics",
     "provider": "Google",
     "title": "Google Data Analytics Professional Certificate",
-    "year": "2024",
-    "credential": "Placeholder credential ID",
+    "year": "2025",
+    "credential": "V8WTI7J9P7VX",
     "pdf": "/certificates/google-data-analytics.pdf"
   },
   {
-    "id": "coursera-ml",
-    "provider": "Coursera",
-    "title": "Machine Learning Specialization (Stanford)",
+    "id": "tcsion-career-edge",
+    "provider": "TCS iON",
+    "title": "Career Edge - Young Professional",
     "year": "2024",
-    "credential": "Placeholder",
-    "pdf": "/certificates/coursera-ml.pdf"
+    "credential": "119854-25079493-1016",
+    "pdf": "/certificates/tcsion-career-edge-young-professional.pdf"
   },
   {
-    "id": "nptel-dl",
-    "provider": "NPTEL",
-    "title": "Introduction to Deep Learning",
-    "year": "2023",
-    "credential": "NPTEL-XXXX",
-    "pdf": "/certificates/nptel-dl.pdf"
+    "id": "tcsion-master-data-management",
+    "provider": "TCS iON",
+    "title": "Master Data Management for Beginners",
+    "year": "2024",
+    "credential": "71279-25079493-1016",
+    "pdf": "/certificates/tcsion-master-data-management.pdf"
   },
   {
-    "id": "udemy-react",
-    "provider": "Udemy",
-    "title": "React — The Complete Guide",
-    "year": "2023",
-    "credential": "UDEMY-XXXX",
-    "pdf": "/certificates/udemy-react.pdf"
-  },
-  {
-    "id": "kaggle-intro",
-    "provider": "Kaggle",
-    "title": "Intro to Machine Learning",
-    "year": "2023",
-    "credential": "Kaggle Learn",
-    "pdf": "/certificates/kaggle-ml.pdf"
+    "id": "aws-cp-essentials",
+    "provider": "AWS",
+    "title": "AWS Cloud Practitioner Essentials",
+    "year": "2026",
+    "credential": "Completion Certificate",
+    "pdf": "/certificates/aws-cloud-practitioner-essentials.pdf"
   }
 ]
