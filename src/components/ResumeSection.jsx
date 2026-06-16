@@ -7,7 +7,7 @@ export default function ResumeSection() {
     <section id="resume" className="section">
       <div className="container">
         <Reveal as="div" effect="fade-in">
-          <SectionHeading label="09" title="Resume" subtitle="View online or download PDF" />
+          <SectionHeading label="" title="Resume" subtitle="View online or download PDF" />
         </Reveal>
         <Reveal as="div" className="resume-panel card" effect="slide-up">
           <div className="resume-actions">

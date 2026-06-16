@@ -13,7 +13,7 @@ export default function GitHubStats() {
       <div className="container">
         <Reveal as="div" effect="fade-in">
           <SectionHeading
-            label="08"
+            label=""
             title="GitHub Stats"
             subtitle={`Live stats via github-readme-stats (@${user})`}
           />
