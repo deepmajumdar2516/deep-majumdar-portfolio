@@ -30,5 +30,13 @@
     "year": "2026",
     "credential": "Completion Certificate",
     "pdf": "/certificates/aws-cloud-practitioner-essentials.pdf"
+  },
+  {
+  "id": "google-sheets",
+  "provider": "Google Cloud / Simplilearn SkillUp",
+  "title": "Google Sheets",
+  "year": "2024",
+  "credential": "7708164",
+  "pdf": "/certificates/google-sheets.pdf"
   }
 ]

@@ -7,7 +7,7 @@ export default function Achievements() {
     <section id="achievements" className="section">
       <div className="container">
         <Reveal as="div" effect="fade-in">
-          <SectionHeading label="07" title="Achievements" subtitle="Competitions and leadership" />
+          <SectionHeading label="" title="Achievements" subtitle="Competitions and leadership" />
         </Reveal>
         <div className="achievements-grid">
           {achievements.map((a, index) => (
